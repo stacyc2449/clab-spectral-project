@@ -54,7 +54,8 @@ def markovPseudoTimeSeries(numSeries, dataList, t_range, makePseudoFn):
 #--------------------------------------------
 # Now make candidate pseudo time series functions
 
-# make a pseudo time series by assuming that the intervals between the data points are distributed according to a gamma function
+# make a pseudo time series by assuming that the intervals between the data points 
+# are distributed according to a gamma function
 def makePseudoListGamma(dataList):
     intervals = np.sort(dataList)[1:] - np.sort(dataList)[:-1]
     mean = np.mean(intervals)

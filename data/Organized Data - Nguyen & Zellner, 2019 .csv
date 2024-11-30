@@ -1,0 +1,30 @@
+Location,Sample Name,40/39 Ratio,U-Th-Pb Ratio,Absolute Model Age,1 stdev,2 stdev,Additional
+Apollo 14,6,"2, 68.4",,3733,,592,fair
+Apollo 14,8,"9, 97.9",,825,,126,good
+Apollo 14,11,"6,95",,1310,,20,good
+Apollo 14,16,"8,85",,3557,,249,good
+Apollo 14,21,"4,97.8",,213,,85,good
+Apollo 14,25,"2, 100",,326,,86,fair
+Apollo 14,26,"8, 91",,1792,,68,good
+Apollo 14,29,"6,73.6",,1088,,87,good
+Apollo 14,33,"3,60",,4442,,429,fair
+Apollo 14,43,"10, 93.4",,491,,63,good
+Apollo 14,47,"2,97",,3457,,277,good
+Apollo 14,65,"1,100",,3798,,226,fair
+Apollo 14,70,"1,88",,2709,,388,fair
+Apollo 14,123,"3,100",,2330,,700,fair
+Apollo 14,125,"2, 100",,3304,,1636,fair
+Apollo 14,145,"3, 3,90.8",,2984,,779,good
+Apollo 14,148,"5,100",,363,,122,good
+Apollo 14,150,"3,100",,3610,,2496,fair
+Apollo 14,158,"3,75.6",,2016,,258,good
+Apollo 14,160,"1,79",,3526,,685,fair
+Apollo 14,163,"2,94",,3135,,611,good
+Apollo 14,167,"6,93.6",,106,,19,good
+Apollo 16,191,"7,67.3",,1000,,230,fair
+Apollo 16,204,"6,90.7",,3905,,168,good
+Apollo 16,207,"8,89",,925,,358,good
+Apollo 16,231,"6,72.8",,1573,,190,good
+Apollo 16,262,"2, 80.5",,2818,,249,fair
+Apollo 17,289,"4, 64",,1323,,904,fair
+Apollo 17,375,"1, 100",,3475,,452,fair

@@ -1,0 +1,24 @@
+Location,Sample Name,FeO,K2O,Absolute Model Age,1 stdev,2 stdev,,,Size (micrometers),Additional,
+Apollo 16,LS1-22,7.26,0.09,360,95,,,,,Statistically acceptable - concordant ages,
+Apollo 16,LS1-31,11.38,0.02,970,188,,,,,SA-CA,
+Apollo 16,LS1-41,7.83,0.23,3674,201,,,,,SA,
+Apollo 16,LS1-42,17.53,1.72,1242,39,,,,,SA-CA,
+Apollo 16,LS1-43,5.47,0.15,371,79,,,,,SA-CA,
+Apollo 16,LS1-73,4.56,0.16,1738,380,,,,,SA-CA,
+Apollo 16,LS2-31,4.01,0.14,1629,729,,,,,SA,Barely usable
+Apollo 16,LS2-43,5.87,0.04,200,700,,,,,Useable,
+Apollo 16,LS2-45,5.08,0.11,1505,104,,,,,SA-CA,
+Apollo 16,LS2-53,6.13,0.19,147,94,,,,,Useable,
+Apollo 16,LS2-62,11.87,0.51,498,14,,,,,SA-CA,
+Apollo 16,LS2-63,2.98,0.51,154,134,,,,,SA,Valid and fairly well constrained
+Apollo 16,LS2-71,5.46,0.22,294,31,,,,,Useable,
+Apollo 16,LS3-15,6.5,0.11,4372,270,,,,,SA-CA,
+Apollo 16,LS3-21,7.17,0.08,3436,171,,,,,SA-CA,
+Apollo 16,LS3-24,11.81,3.63,276,63,,,,,SA-CA,Scattered
+Apollo 16,LS3-52,6.38,0.23,4255,384,,,,,SA-CA,
+Apollo 16,LS3-71,8.53,0.1,2565,299,,,,,SA-CA,
+Apollo 16,LS4-12,9.23,0.93,3862,52,,,,,SA-CA,
+Apollo 16,LS4-21,5.27,0.15,339,145,,,,,SA,A lot of scatter
+Apollo 16,LS5-67,4.32,0.12,1913,728,,,,,SA-CA,Quite high uncertainty
+Apollo 16,LS5-72,14.19,0.78,938,151,,,,,SA-CA,
+Apollo 16,LS6-31,5.43,0.59,560,70,,,,,SA-CA,
